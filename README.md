@@ -1,6 +1,4 @@
-# Rocketlab-Atividade-Dev
-
-# RocketLab Movies
+# Rocketlab Atividade Dev
 
 Uma aplicação Full-Stack inspirada em plataformas de catálogo de filmes (como o Letterboxd), desenvolvida para o desafio **Rocket Lab 2026**. Permite gerenciar um catálogo de filmes, buscar por títulos/sinopses e cadastrar resenhas/avaliações.
 
